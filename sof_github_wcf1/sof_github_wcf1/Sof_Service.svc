@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="sof_github_wcf1.Sof_Service" CodeBehind="Sof_Service.svc.cs" %>
